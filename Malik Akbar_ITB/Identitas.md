@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Samuel  Franciscus Togar Hasurungan
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](biodata.png)
