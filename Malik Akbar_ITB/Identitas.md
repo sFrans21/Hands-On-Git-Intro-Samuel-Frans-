@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Samuel Fransiskus
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![biodata](screenshot.png)
