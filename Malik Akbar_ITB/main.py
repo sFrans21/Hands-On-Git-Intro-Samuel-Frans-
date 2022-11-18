@@ -1,4 +1,4 @@
-print("Nama: Malik Akbar")
-print("Jurusan: Teknik Informatika")
+print("Nama: Samuel Franciscus Togar Hasurungan Sinaga")
+print("Jurusan: STEI-K")
 print("Universitas: ITB")
-print("Alasan ingin masuk GDSC: Ingin belajar lebih banyak tentang pemrograman")
+print("Alasan ingin masuk GDSC: Saya ingin mengenal lebih jauh tentang lingkup kerja dari Dunia IT, mengasah hardskill programming, serta memperluas koneksi")
